@@ -33,8 +33,8 @@ echo "
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
-useradd "404" --shell=/bin/false -M
-echo "404:404" | chpasswd
+useradd "nawjarhtun" --shell=/bin/false -M
+echo "nawjarhtun" | chpasswd
 
 echo ""
 
@@ -49,4 +49,4 @@ echo -e "${cyan}          \|__|        \|_______|              \|__|            
 echo -e "${green}Contact the developer https://t.me/nkka404 for more information              ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
-echo -e "${cyan}i am 404 😎 ${plain}"
+echo -e "${cyan}Thanks bro 404 😎 ${plain}"
