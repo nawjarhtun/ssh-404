@@ -32,7 +32,7 @@ echo "
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
-</font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
+</font></h3>" | tee /etc/ssh/gcp_nawjarhtun >/dev/null
 useradd "nawjarhtun" --shell=/bin/false -M
 echo "nawjarhtun" | chpasswd
 
